@@ -1,4 +1,4 @@
-<p align="center"><img src="https://developer.4d.com/4d-for-ios/docs/assets/en/templates/Simple-Visual-Table-List-form.gif" alt="Simple Visual Table" height="auto" width="300"></p>
+<p align="center"><img src="https://github.com/4d-for-ios/4d-for-ios-form-list-SimpleVisualTable/blob/master/template.gif" alt="Simple Visual Table" height="auto" width="300"></p>
 
 ## Simple Visual Table
 

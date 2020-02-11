@@ -1,6 +1,6 @@
 {
   "type": "listform",
-  "name": "Simple Visual Table",
+  "name": "Visual Table",
   "fields": {
     "count": 3
   },
